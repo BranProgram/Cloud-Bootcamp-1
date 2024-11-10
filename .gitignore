@@ -1,0 +1,27 @@
+# System files
+.bash_history
+.gitconfig
+.ssh/
+.vscode/
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+Music/
+My Documents/
+NetHood/
+OneDrive/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Videos/
+ntuser.dat*
